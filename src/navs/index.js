@@ -1871,6 +1871,12 @@ export const docsMenu = {
                     color: 'red',
                 },
                 {
+                    name: 'Data management',
+                    url: '/docs/product-analytics/data-management',
+                    icon: 'Database',
+                    color: 'blue',
+                },
+                {
                     name: 'Sampling',
                     url: '/docs/product-analytics/sampling',
                     icon: 'Sampling',
